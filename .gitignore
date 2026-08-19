@@ -220,4 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Unzipped database (keep the .zip in repo, ignore the extracted version)
-zippedData/im.db
+zippedData/im.dbmovie-studio-project-v2-with-git-history.zip
