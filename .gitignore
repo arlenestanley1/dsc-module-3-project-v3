@@ -221,3 +221,4 @@ __marimo__/
 
 # Unzipped database (keep the .zip in repo, ignore the extracted version)
 zippedData/im.dbmovie-studio-project-v2-with-git-history.zip
+*.zip
