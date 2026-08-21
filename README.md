@@ -17,6 +17,7 @@ Using `pandas`, financial data from **The Numbers**, studio/gross-split data fro
 - 📊 [Non-technical presentation](presentation.pdf)
 - 📓 [Full analysis notebook](index.ipynb)
 - 📈 [Tableau-ready dataset](tableau/tableau_movie_dataset.csv) — see [`tableau/README.md`](tableau/README.md) for the workbook build guide
+- 📊 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/kevin.omari/viz/MovieStudioInvestmentStrategyPerformanceAnalysis/Dashboard1?publish=yes)
 
 ## Business Understanding
 
